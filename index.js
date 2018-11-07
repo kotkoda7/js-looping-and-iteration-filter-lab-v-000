@@ -13,3 +13,4 @@ function fuzzyMatch (list, partial) {
   });
 }
 
+function matchName(list, )
