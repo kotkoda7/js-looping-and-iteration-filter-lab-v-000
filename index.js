@@ -6,8 +6,10 @@ function findMatching (list, name) {
   });
 }
 
-function fuzzyMatch(list, partial) {
+function fuzzyMatch (list, partial) {
   let length = partial.length;
-  return.list.filter(driverName) {
-    return driverName.slice(0, lengthOfName) === partialName;
+  return list.filter(function (driverName) {
+    return driverName.slice(0, length) === partial;
   });
+}
+
