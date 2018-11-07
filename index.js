@@ -6,7 +6,7 @@ function findMatching (list, name) {
   });
 }
 
-function fuzzyMatch(name, partial) {
+function fuzzyMatch(list, partial) {
   let length = partial.length;
-  
+  return.list.filter()
 }
