@@ -6,3 +6,4 @@ function findMatching (list, name) {
   });
 }
 
+function fuzzyMatch(name, )
