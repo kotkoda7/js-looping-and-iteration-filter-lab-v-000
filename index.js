@@ -7,5 +7,5 @@ function findMatching (list, name) {
 }
 
 function fuzzyMatch(name, partial) {
-  
+  let length = 
 }
