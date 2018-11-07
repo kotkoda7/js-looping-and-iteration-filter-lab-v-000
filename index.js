@@ -8,5 +8,5 @@ function findMatching (list, name) {
 
 function fuzzyMatch(list, partial) {
   let length = partial.length;
-  return.list.filter()
+  return.list.filter(driverName)
 }
